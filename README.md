@@ -1,5 +1,5 @@
 # MoosicWave
-terms &amp; privacy
+Terms &amp; Privacy
 
 MoosicWave Discord Bot Terms of service-
 
